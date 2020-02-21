@@ -235,7 +235,7 @@ body {
 }
 #nexmoe-header .nexmoe-copyright {
   padding: 0 30px;
-  text-align: center;
+  text-align: right;
   color: #777;
   white-space: normal;
   margin-bottom: 20px;
@@ -324,7 +324,7 @@ body {
   display: block;
   -webkit-filter: blur(5px);
   filter: blur(5px);
-  transition: filter 400ms ease-in, -webkit-filter 400ms ease-in;
+  transition: filter 400ms, -webkit-filter 400ms;
   position: absolute;
   left: 0;
   top: 0;
@@ -340,7 +340,7 @@ body {
   bottom: 0;
   padding: 20px;
   color: #fff;
-  font-size: 2.2em;
+  font-size: 2em;
   width: 100%;
   box-sizing: border-box;
   text-transform: none;
@@ -372,7 +372,7 @@ body {
 }
 #nexmoe-content .nexmoe-post .nexmoe-post-meta a {
   border-radius: 10px;
-  padding: 6px 10px;
+  padding: 5px 10px;
   color: #fff;
   font-size: 14px;
   display: inline-block;
@@ -573,8 +573,8 @@ article pre code::after {
   background: #282c34;
 }
 article a {
-  -webkit-transition: all 0.35s ease-in;
-  transition: all 0.35s ease-in;
+  -webkit-transition: all 0.35s;
+  transition: all 0.35s;
   color: #ff4e6a;
   text-decoration: none;
   position: relative;
@@ -585,8 +585,8 @@ article a:focus {
   color: #ff4e6a;
 }
 article a::after {
-  -webkit-transition: width 0.35s ease-in;
-  transition: width 0.35s ease-in;
+  -webkit-transition: width 0.35s;
+  transition: width 0.35s;
   content: "";
   right: 0;
   width: 0;
@@ -654,7 +654,7 @@ article img {
   border: 1px solid #eee;
   -webkit-filter: blur(5px);
   filter: blur(5px);
-  transition: filter 400ms ease-in, -webkit-filter 400ms ease-in;
+  transition: filter 400ms, -webkit-filter 400ms;
 }
 article img.lazyloaded {
   -webkit-filter: blur(0);
@@ -699,7 +699,7 @@ article h2:before {
   left: -20px;
 }
 article h2:after {
-  transition: all 0.35s ease-in;
+  transition: all 0.35s;
   content: "";
   position: absolute;
   background: rgba(255,78,106,0.85);
@@ -894,8 +894,8 @@ details[open] > summary .remove {
   right: 3px !important;
   -webkit-box-shadow: 0 0 5px 0 rgba(0,0,0,0.18) !important;
   box-shadow: 0 0 5px 0 rgba(0,0,0,0.18) !important;
-  -webkit-transition: all 0.35s ease-in;
-  transition: all 0.35s ease-in;
+  -webkit-transition: all 0.35s;
+  transition: all 0.35s;
 }
 .aplayer .aplayer-info .aplayer-controller .aplayer-volume-wrap .aplayer-volume-bar-wrap .aplayer-volume-bar,
 .aplayer .aplayer-info .aplayer-controller .aplayer-volume-wrap .aplayer-volume-bar-wrap .aplayer-volume-bar .aplayer-volume {
