@@ -1,3 +1,0 @@
-<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>// build time:Wed May 13 2020 22:19:21 GMT+0800 (香港标准时间)
-window.onload=function(){$.ajax({Type:"GET",url:"https://v1.alapi.cn/api/soul",dataType:"JSON",success:function(t){var a=document.getElementById("title_jitang");a.innerHTML=t.data.title}})};
-//rebuild by neat 
