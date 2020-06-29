@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://shengcv.xyz/about.html</loc>
+    
+    <lastmod>2020-06-29T06:17:28.418Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://shengcv.xyz/PY.html</loc>
     
     <lastmod>2020-06-25T11:55:07.932Z</lastmod>
@@ -9,14 +16,14 @@
   </url>
   
   <url>
-    <loc>https://shengcv.xyz/CWriting.html</loc>
+    <loc>https://shengcv.xyz/BWriting.html</loc>
     
     <lastmod>2020-06-17T07:03:09.907Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://shengcv.xyz/BWriting.html</loc>
+    <loc>https://shengcv.xyz/CWriting.html</loc>
     
     <lastmod>2020-06-17T07:03:09.907Z</lastmod>
     
@@ -40,13 +47,6 @@
     <loc>https://shengcv.xyz/DWriting.html</loc>
     
     <lastmod>2020-05-28T07:08:25.141Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://shengcv.xyz/about.html</loc>
-    
-    <lastmod>2020-05-13T14:30:30.196Z</lastmod>
     
   </url>
   
